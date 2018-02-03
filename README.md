@@ -1,2 +1,6 @@
-# cpp-ystu
-Practical tasks on programming
+## Всё просто, тут будут лежать проекты для моего варианта по информатике.
+Кто хочет, берите. 
+Кому что непонятно пишите. 
+
+#MiXaiLL76
+#mike.milos@yandex.ru
