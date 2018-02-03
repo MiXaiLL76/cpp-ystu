@@ -2,5 +2,5 @@
 Кто хочет, берите. 
 Кому что непонятно пишите. 
 
-#MiXaiLL76
-#mike.milos@yandex.ru
+# MiXaiLL76
+# mike.milos@yandex.ru
