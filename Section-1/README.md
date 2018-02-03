@@ -6,13 +6,13 @@
 ![image](/Section-1/img/f1.png)
 
 ### cmath - lib
-**pow(x,y)** - число x в степени y
-**atan(x)** - arctg(x)
-**sin(x)** - sin(x)
-**sqrt(x)** - Корень из числа x
-**abs(x)** - Модуль числа x
-**log(x)** - ln(x)
-**exp(x)** - e^x
+#### **pow(x,y)** - число x в степени y
+#### **atan(x)** - arctg(x)
+#### **sin(x)** - sin(x)
+#### **sqrt(x)** - Корень из числа x
+#### **abs(x)** - Модуль числа x
+#### **log(x)** - ln(x)
+#### **exp(x)** - e^x
 
 
 
