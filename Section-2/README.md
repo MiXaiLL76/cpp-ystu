@@ -3,6 +3,12 @@
 ### image
 ![image](/Section-2/img/pir.png)
 
+### Новое и непонятное?
+Новое           | Пояснение
+----------------|----------------------
+**static_cast** | [microsoft-help](https://msdn.microsoft.com/ru-ru/library/c36yw7x9.aspx)
+**<ctime>**     | Для получения текущего времени фунией time()
+**srand**       | Обновление случайных чисел.
 
 ### input
 ```
