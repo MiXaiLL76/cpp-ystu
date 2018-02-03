@@ -6,6 +6,12 @@
 ![image](/Section-1/img/f1.png)
 
 
+### input
+```
+a: 2.5
+b: 0.5
+x: 8 и 1
+```
 ### output
 ```
 Кол-во переменных X: 2
