@@ -6,14 +6,15 @@
 ![image](/Section-1/img/f1.png)
 
 ### Новая библиотека
-cmath - lib | Пояснение
-**pow(x,y)**|число x в степени y
-**atan(x)**|arctg(x)
-**sin(x)**|sin(x)
-**sqrt(x)**|Корень из числа x
-**abs(x)**|Модуль числа x
-**log(x)**|ln(x)
-**exp(x)**|e^x
+cmath - lib     | Пояснение
+----------------|----------------------
+**pow(x,y)**    | x^y
+**atan(x)**     | arctg(x)
+**sin(x)**      | sin(x)
+**sqrt(x)**     | Корень из числа x
+**abs(x)**      | Модуль числа x
+**log(x)**      | ln(x)
+**exp(x)**      | e^x
 
 
 
