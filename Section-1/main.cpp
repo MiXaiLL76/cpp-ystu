@@ -7,7 +7,7 @@ int main()
     //Константные значения из задания
     const double a = 2.5f;
     const double b = 0.5f;    
-    const double x_arr[] = {8,1};
+    const double x_arr[] = {8.5f,0.5f};
     
     int x_len = sizeof(x_arr) / sizeof(x_arr[0]); // Длинна массива
 
