@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdlib.h> 
 #include <cmath>
 #include <ctime>
 using namespace std;
@@ -14,7 +15,7 @@ int main()
 
 
     const double  e = 0.00001f;
-    double  x = rand(-10,10),
+    double  x  = rand(-10,10),
             xk = rand(x,20),
             h  = rand(0,1);
 
@@ -25,24 +26,28 @@ int main()
     cout << "h:  " << h << endl << endl;
 
     do{
-        double  s = 0; // Бесконечная сумма S(x)  
-        double  a = 0; // Переменная 1 члена.
+        long double  s = 0; // Бесконечная сумма S(x)  
+        long double  a = 0; // Переменная 1 члена.
 
-        int n = 0;
-        
+        int n = 1;
+        s = x;         // Первый элемент!
+
         do{
             a = pow(x,2*n+1)/factorial(2*n+1);
+            //cout << "S(x): " << s << " | x: " << x << " | a: " << a << endl;
             s += a; 
             n++;
-        }while(abs(a) < e);
+        }while(abs(a) <= e);
 
 
         double y = sinh(x);
         cout << "x: " << x << " | S(x): " << s << " | y(x): " << y << endl;
+    
+
 
         x += h;
     }while(x < xk);
-    
+
     return 0; 
 }
 
