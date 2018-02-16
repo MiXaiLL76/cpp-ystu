@@ -42,6 +42,7 @@ int main()
 
         x += h;
     }while(x < xk);
+    
     return 0; 
 }
 

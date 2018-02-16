@@ -35,3 +35,4 @@
 
 ## Компилятор. 
 ### https://www.onlinegdb.com/online_c_compiler
+### https://habrahabr.ru/sandbox/80147/
