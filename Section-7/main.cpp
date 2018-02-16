@@ -56,7 +56,6 @@ double rand(double b, double e)//Функция самописная, честн
 {
    return b + (rand() % static_cast<unsigned int>((e - b) * 1000)) / 1000.f;   
 }
-
 int factorial(int n)
 {
   return (n == 1 || n == 0) ? 1 : factorial(n - 1) * n;
